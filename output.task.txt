@@ -1,0 +1,59 @@
+Question 1
+//a).output==>odd numbers in an array : [1,3,5,7]
+     output==>The array odd number :[1,3,5,7]
+
+//>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+//b).output==>Title caps in a string array : [Dog,Cat,Lion,Horse,Zebra]
+    .output==>Title caps in a string array :[Dog,Cat,Lion,Horse,Zebra]
+
+//>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+//c).output==>Sum of all number : 89
+     output==>Sum of all number : 89
+
+//>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+//d).output==>Prime numbers is: 59,103
+     output==>Prime numbers is: 59,103
+
+//>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+//e).output==>['15151']
+     output==>['15151']
+
+//>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+//f).output==>Median for given two equal arrays are: 49
+     output==>Median for given two equal arrays are: 49
+
+//>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+//g).output==>['beetroot', 'beans', 'pumpkin', 'carrot']
+     output==>['beetroot', 'beans', 'pumpkin', 'carrot']
+
+//>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+//h).output==>['niranjan', 'ajay', 'ayesha', 'azeen', 'dharshan']
+     output==>['ram', 'logamaliya', 'noorjahan', 'vishnu', 'vijay']
+
+//Question 2
+//a).output==>Odd number array is: [1,3,5,7,9,11,21,31]
+
+//>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+//b).output==>['Ayesha', 'Vishnu', 'Logamaliya', 'Nivi']
+
+//>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+//c).output==>Sum of all number in an array is: 55
+
+//>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+//d).output==>Prime numbers in an array : [1,2,3,5,7,9]
+
+//>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+//e).output==>Palindrome array is ; [15151]
+
+//>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
